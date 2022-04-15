@@ -33,14 +33,21 @@ h1 {
 
 .Playlisthead{
   color: Palevioletred;
-  font-size: 60px;
+  font-size: 80px;
   font-family: 'Carattere', cursive;
-  margin-left: 100px;
-  
+  margin-left: 370px;
+  margin-top: 50px;
+
+
 
 }
 .playlist{
-  margin-left: 100px;
+  margin-left: 370px;
+  font-family: 'Scheherazade New', serif;
+  font-size:  30px;
+
+
+
 
 }
 
