@@ -4,7 +4,7 @@ a {
 
 h1 {
   text-align: center;
-  color: pink;
+  color: Palevioletred;
   font-size: 60px;
   font-family: 'Petit Formal Script', cursive;
   font-weight: bold;
@@ -13,7 +13,7 @@ h1 {
 }
 
 .abouth2{
-  color: pink;
+  color: Palevioletred;
   font-size: 60px;
   font-family: 'Carattere', cursive;
   float: right;
@@ -25,10 +25,10 @@ h1 {
   float: right;
   margin-top: -500px;
   margin-left: 875px;
-  margin-right: 200px;
+  margin-right: 100px;
   display: inline;
   font-size: 30px;
-  font-family:'Petit Formal Script', cursive;
+  font-family: 'Scheherazade New', serif;
 }
 
 img {
