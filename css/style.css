@@ -31,6 +31,10 @@ h1 {
   font-family: 'Scheherazade New', serif;
 }
 
+.playlist{
+  margin-left: 100px;
+}
+
 img {
   text-align: center;
 }
