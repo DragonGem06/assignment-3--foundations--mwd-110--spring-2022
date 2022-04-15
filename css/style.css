@@ -23,17 +23,17 @@ h2{
 p {
   margin-left: 1000px;
   margin-right: 200px;
-
+  display: inline;
 }
 
 img {
-  text-align: center;
+  vertical-align: middle;
 }
 
 .cover-center {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: 150px;
+  margin-right:700px ;
   width:40%;
   margin-top: 10px;
   margin-bottom: 20px;
