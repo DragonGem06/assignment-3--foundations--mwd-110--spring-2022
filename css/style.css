@@ -13,10 +13,12 @@ h1 {
 }
 
 h2{
-  font-size: 40px;
+  color: pink;
+  font-size: 60px;
   margin-top: 20px;
   margin-bottom: 20px;
   font-family: 'Carattere', cursive;
+
 }
 
 img {
