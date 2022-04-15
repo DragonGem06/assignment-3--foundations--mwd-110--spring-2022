@@ -31,8 +31,17 @@ h1 {
   font-family: 'Scheherazade New', serif;
 }
 
+.Playlisthead{
+  color: Palevioletred;
+  font-size: 60px;
+  font-family: 'Carattere', cursive;
+  margin-left: 100px;
+  
+
+}
 .playlist{
   margin-left: 100px;
+
 }
 
 img {
