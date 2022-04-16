@@ -18,27 +18,29 @@ h1 {
   font-family: 'Carattere', cursive;
   float: right;
   margin-right: 400px;
-  margin-top: -580px;
+  margin-top: -450px;
 }
 
 .aboutp {
   float: right;
-  margin-top: -500px;
+  margin-top: -350px;
   margin-left: 875px;
   margin-right: 100px;
   display: inline;
   font-size: 30px;
   font-family: 'Scheherazade New', serif;
+  color: orange;
 }
 
 .aboutpp {
   float: right;
-  margin-top: -300px;
+  margin-top: -150px;
   margin-left: 875px;
   margin-right: 100px;
   display: inline;
   font-size: 30px;
   font-family: 'Scheherazade New', serif;
+  color: orange;
 }
 
 .Playlisthead{
@@ -54,6 +56,7 @@ h1 {
   font-family: 'Scheherazade New', serif;
   font-size:  30px;
   margin-top: 20px;
+  color: orange;
 }
 
 
@@ -89,6 +92,7 @@ h1 {
   font-family: 'Scheherazade New', serif;
   font-size:  30px;
   margin-top: 20px;
+  color: orange;
 }
 
 .learn-more1{
@@ -97,9 +101,10 @@ h1 {
   font-family: 'Scheherazade New', serif;
   font-size:  30px;
   margin-top: 20px;
+  color: orange;
 }
 
-}
 body{
-  background-color: MistyRose;
+  background-color: black;
+
 }
