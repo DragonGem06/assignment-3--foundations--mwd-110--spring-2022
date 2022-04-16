@@ -79,11 +79,19 @@ h1 {
   color: Palevioletred;
   font-size: 80px;
   font-family: 'Carattere', cursive;
-  margin-left: 600px;
+  margin-left: 500px;
   margin-top: 50px;
 }
 
 .learn-more{
+  margin-left: 100px;
+  margin-right: 100px;
+  font-family: 'Scheherazade New', serif;
+  font-size:  30px;
+  margin-top: 20px;
+}
+
+.learn-more1{
   margin-left: 100px;
   margin-right: 100px;
   font-family: 'Scheherazade New', serif;
