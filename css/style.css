@@ -35,21 +35,17 @@ h1 {
   color: Palevioletred;
   font-size: 80px;
   font-family: 'Carattere', cursive;
-  margin-left: 370px;
+  margin-left: 270px;
   margin-top: 50px;
 
 
 
 }
 .playlist{
-  margin-left: 370px;
+  margin-left: 270px;
   font-family: 'Scheherazade New', serif;
   font-size:  30px;
   margin-top: 20px;
-
-
-
-
 }
 
 img {
@@ -67,6 +63,13 @@ img {
   vertical-align: middle;
 }
 
+.band-3{
+  margin-left: 700px;
+  margin-top: -400px;
+  box-shadow: 10px 10px 5px LightPink;
+  margin-bottom: 40px;
+
+}
 body{
   background-color: MistyRose;
 }
