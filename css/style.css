@@ -14,7 +14,7 @@ h1 {
 
 .abouth2{
   color: Palevioletred;
-  font-size: 60px;
+  font-size: 80px;
   font-family: 'Carattere', cursive;
   float: right;
   margin-right: 400px;
@@ -102,6 +102,13 @@ h1 {
   font-size:  30px;
   margin-top: 20px;
   color: orange;
+}
+
+.footer{
+  color: palevioletred;
+  font-size: 30px;
+  margin-top: 30px;
+  margin-left: 20px;
 }
 
 body{
